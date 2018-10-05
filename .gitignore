@@ -1,0 +1,10 @@
+/data
+/trained_models
+/.idea
+/.vscode
+/__pycache__
+/logs
+/archive
+/project.iml
+/config_local.py
+/validation_script/data

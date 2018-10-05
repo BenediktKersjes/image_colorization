@@ -1,0 +1,4 @@
+name: tensorboard
+dependencies:
+  - python=3.6.5
+  - tensorflow
